@@ -1,7 +1,3 @@
-¡Genial, Pablo! 🎉 Vamos a crear un `README.md` bien estructurado para tu carpeta de **Nivel-1-Basico** que describa cada ejercicio de forma clara, sin dar la solución, pero proporcionando la información necesaria para que cualquiera pueda entender de qué va y cómo completarlo.
-
----
-
 # 📚 **Nivel 1 - Básico: Aprende los fundamentos de React**
 
 ¡Bienvenido al Nivel 1 del proyecto **Aprende React**! En este nivel, vamos a cubrir los conceptos básicos de React con ejercicios prácticos que te permitirán familiarizarte con la sintaxis, los componentes, props y el uso de JSX. Cada ejercicio está diseñado para enseñarte un aspecto clave de React, comenzando con lo más simple y aumentando gradualmente en complejidad.
@@ -160,4 +156,4 @@ En React, podemos mostrar contenido de forma condicional utilizando expresiones 
 
 ---
 
-Espero que este README te ayude a guiar a otros a través de tus ejercicios y que sea claro para cualquier persona que quiera aprender React con tu proyecto. 🚀💻
+Espero que este README te ayude a guiarte a través de tus ejercicios y que sea claro para aprender React con este proyecto. 🚀💻
