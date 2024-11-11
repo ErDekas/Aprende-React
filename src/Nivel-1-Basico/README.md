@@ -133,7 +133,7 @@ En React, podemos mostrar contenido de forma condicional utilizando expresiones 
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/Aprende-React.git
+   git clone https://github.com/ErDekas/Aprende-React.git
    cd Aprende-React
    ```
 

@@ -128,7 +128,7 @@ Este ejercicio te enseña cómo manejar eventos en React. Crearás un botón que
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/Aprende-React.git
+   git clone https://github.com/ErDekas/Aprende-React.git
    cd Aprende-React
    ```
 
