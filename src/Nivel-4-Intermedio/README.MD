@@ -12,7 +12,7 @@
 
 ---
 
-## 📂 **Ejercicio 1: useEffect Básico - Mensaje en consola**
+## 📂 **Ejercicio 16: useEffect Básico - Mensaje en consola**
 
 ### 📋 **Descripción:**
 
@@ -31,7 +31,7 @@ En este ejercicio, aprenderás a usar el hook `useEffect` para ejecutar código 
 
 ---
 
-## 📂 **Ejercicio 2: useEffect con dependencias - Contador**
+## 📂 **Ejercicio 17: useEffect con dependencias - Contador**
 
 ### 📋 **Descripción:**
 
@@ -51,7 +51,7 @@ Este ejercicio te enseñará a usar el hook `useEffect` con un arreglo de depend
 
 ---
 
-## 📂 **Ejercicio 3: Llamada a API con useEffect - Mostrar datos**
+## 📂 **Ejercicio 18: Llamada a API con useEffect - Mostrar datos**
 
 ### 📋 **Descripción:**
 
@@ -71,7 +71,7 @@ En este ejercicio aprenderás a hacer una llamada a una API usando `useEffect` y
 
 ---
 
-## 📂 **Ejercicio 4: Limpiar efectos con useEffect - Contador y Título de la página**
+## 📂 **Ejercicio 19: Limpiar efectos con useEffect - Contador y Título de la página**
 
 ### 📋 **Descripción:**
 
@@ -91,7 +91,7 @@ Este ejercicio te enseñará cómo limpiar efectos en React. Usaremos `useEffect
 
 ---
 
-## 📂 **Ejercicio 5: Timer con useEffect - Contador de segundos**
+## 📂 **Ejercicio 20: Timer con useEffect - Contador de segundos**
 
 ### 📋 **Descripción:**
 
@@ -130,7 +130,7 @@ En este ejercicio, aprenderás a crear un temporizador que cuente los segundos d
 3. Modifica `src/index.js` para importar el ejercicio que deseas probar. Por ejemplo:
 
    ```jsx
-   import App from "./Nivel-4-Hooks-y-Ciclo-de-Vida/ejercicio-1";
+   import App from "./Nivel-4-Hooks-y-Ciclo-de-Vida/ejercicio-16";
    ```
 
 4. Ejecuta el proyecto:
