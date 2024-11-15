@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import SelectDinamico from './Nivel-5-Intermedio/Ejercicio-25/SelectDinamico';
+import ListaDeTareas from './Nivel-6-Avanzado/Ejercicio-29/ListaDeTareas';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <SelectDinamico />
+    <ListaDeTareas />
 );
