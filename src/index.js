@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import ListaDeTareas from './Nivel-6-Avanzado/Ejercicio-29/ListaDeTareas';
+import App from './Nivel-7-Avanzado/Ejercicio-35/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <ListaDeTareas />
+    <App />
 );
